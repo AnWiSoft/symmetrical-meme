@@ -10,8 +10,8 @@
 
 TFT_eSPI tft = TFT_eSPI();       
 
-#define WIFI_SSID "WLAN-QRAT68"
-#define WIFI_PASS "2102296026106923"
+#define WIFI_SSID "xxxxxxxxxx"
+#define WIFI_PASS "xxxxxxxxxx"
 IPAddress apIP(192, 168, 2, 250);
 IPAddress gateway(192, 168, 2, 1);
 IPAddress subnet(255, 255, 255, 0);
